@@ -1,0 +1,18 @@
+{
+  "name": "account-management-system",
+  "version": "1.0.0",
+  "description": "Account Management System - Modernized from COBOL to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": ["account", "management", "system"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
